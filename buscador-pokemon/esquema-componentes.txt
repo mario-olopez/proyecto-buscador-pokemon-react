@@ -1,0 +1,11 @@
+App
+    --- Head 
+        -- Nav
+
+    --- Main
+        -- SearchContainer
+            -- Search
+            -- PokemonList
+                -- PokemonCard
+                
+    --- Footer
