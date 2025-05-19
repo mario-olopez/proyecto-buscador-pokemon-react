@@ -1,7 +1,10 @@
 import React from "react";
+import Search from "./Search/Search";
 
 const SearchContainer = () => {
-  return <div>SearchContainer</div>;
+  return(
+    <Search />
+  )
 };
 
 export default SearchContainer;
