@@ -1,0 +1,6 @@
+.nav-bar{
+    display: flex;
+    list-style: none;
+    gap: 5rem;
+    justify-content: center;
+}
