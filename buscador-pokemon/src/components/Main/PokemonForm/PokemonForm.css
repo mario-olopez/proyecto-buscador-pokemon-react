@@ -1,0 +1,39 @@
+.form-container{
+    display: flex;
+    justify-content:center;
+}
+
+.poke-form{
+    border: 2px solid black;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    padding: 1.5rem;
+    align-items: center;
+    width: 50%;
+    background-color: white;
+    gap: 0.5rem;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    box-shadow: 7px 7px 5px black;
+}
+
+.poke-form input{
+    width: 70%;
+    height: 1.5rem;
+    background-color: rgb(255, 242, 226);
+    border-radius: 15px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    margin-bottom: 1.5rem;
+}
+
+.poke-form button{
+    border: 2px solid black;
+    border-radius: 15px;
+    height: 2.3rem;
+    padding: 0.5rem;
+    font-family:'Courier New', Courier, monospace ;
+    font-weight: bold;
+    background-color: rgb(197, 228, 255);
+}

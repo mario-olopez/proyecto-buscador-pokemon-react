@@ -3,7 +3,8 @@ import Nav from "./Nav"
 import "./Head.css"
 
 const Head = () => {
-  return <div>
+  return <div className="header">
+    <h1>PokeBuscador 🔍</h1>
     <Nav />
   </div>;
 };
