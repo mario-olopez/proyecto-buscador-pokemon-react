@@ -1,0 +1,18 @@
+h1{
+    color: azure;
+    text-align: center;
+    margin: 0;
+    height: 80px;
+    font-family:'Courier New', Courier, monospace;
+    text-shadow: 1px 1px 2px black;
+}
+
+.header{
+    background-color: red;
+    width: 100%;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    margin-bottom: 2rem;
+    border: 2px solid black;
+    border-radius: 15px;
+}
