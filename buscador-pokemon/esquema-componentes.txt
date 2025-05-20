@@ -7,5 +7,6 @@ App
             -- Search
             -- PokemonList
                 -- PokemonCard
+        -- PokemonForm
                 
     --- Footer

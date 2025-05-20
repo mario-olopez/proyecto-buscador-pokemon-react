@@ -1,0 +1,9 @@
+.pokemon-card{
+    background-color: rgb(255, 255, 91);
+    border: solid 2px black;
+    border-radius: 15px;
+    width: 12rem;
+    margin-top: 3rem;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    box-shadow: 7px 7px 5px black;
+}
